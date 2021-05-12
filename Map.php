@@ -64,7 +64,56 @@
         </div>
     </div>
 
+
+
+    <img data-bs-toggle="modal" data-bs-target="#terra" class="finger" src="fingerClick.gif" style="left: 1000px; top: 1380px">
+
+
+
+    <div class="modal fade" id="terra" tabindex="-1" aria-labelledby="nomLieu" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Terra</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="imgHotspot"> <img class="img-fluid"src="./media/martien.jpg" alt=""> </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    
+                </div>
+            </div>
+        </div>
     </div>
+
+
+
+    <img data-bs-toggle="modal" data-bs-target="#fleme" class="finger" src="fingerClick.gif" style="left: 500px; top: 1100px">
+
+
+
+    <div class="modal fade" id="fleme" tabindex="-1" aria-labelledby="nomLieu" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Daedalia Planum 🤔 </h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="imgHotspot"> <img class="img-fluid"src="./media/humour.jpg" alt=""> </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+    
 
 
 

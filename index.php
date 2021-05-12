@@ -11,6 +11,7 @@
 
 <?php require './header.php'; ?>
 
+
 <script>
 			var canvas = document.createElement('canvas');
 document.body.appendChild(canvas);
